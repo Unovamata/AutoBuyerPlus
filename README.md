@@ -2,7 +2,7 @@
   <img src="Autobuyer/Logos/logo.png" />
 </p>
 
-# [AutoBuyer+ / Neopets Shop & Attic Highlighter & Autobuyer Crack]()
+# [AutoBuyer+ / Neopets Shop & Attic Autobuyer, Highlighter, & Automator]()
 > By [Unovamata](https://github.com/Unovamata "Unovamata").
 
 **Table of Contents**
