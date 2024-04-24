@@ -28,12 +28,14 @@
 
 ## Tips
 
-- Read the FAQs that comes along the extension in the **Tools > Github > FAQs** for more information.
-- I have not yet received any warnings or experienced account freezing while using this AutoBuyer extension. However, I would suggest some tips and guidelines to help prevent potential issues with Neopets.
-- Firstly, it is essential not to be too greedy while restocking. It is recommended not to go on Auto-Buying for more than 8 hours at a stretch as it may draw Neopets' attention towards your account. So use common sense and not overdo it.
+- Read the Wiki's User Manual pages.
+- Read the FAQs that come along with the extension in the **Tools > Github > FAQs** for more information.
+- No warnings nor bans have been reported with the usage of AutoBuyer+.
+- Firstly, it is essential not to be greedy while restocking. Do not go Auto-Buying for more than 8 hours at a stretch as it may draw Neopets' attention towards your account. Do not overdo it.
 - In case you fail to buy an expensive item, do not worry. It is better to keep a low profile and aim for less profitable items. It is not what you stock but how many items you stock. You can choose shops with high profitability or low competition.
 - Before activating the ABer, make sure to check all your options carefully. Most of the options are set in milliseconds, so it is best to be cautious while setting them up.
-- To search for items that you want to buy from specific shops and create your own custom item sniping list, you can use JellyNeo's item databases and play around with the filters their database offers. In the future, we will offer a tool that allows for the extraction of this data so you can parse correctly in the extension.
+- To search for items that you want to buy from specific shops and create your custom item sniping list, you can use JellyNeo's item databases and play around with the filters their database offers.
+
 
 ## New & Included Features
 
