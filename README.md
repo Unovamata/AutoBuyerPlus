@@ -68,3 +68,4 @@
 - Scheduled operation between certain hours
 - Ability to view current item database
 - Minimum profit percentage and NPS threshold for purchasing items
+- The Void Within Neopets Volunteer Event Bot
