@@ -24,7 +24,7 @@
 - The extension will now appear in your list of installed extensions in your Chronium based browser.
 - Navigate to the options page the AutoBuyer+ has and configure the parameters you want to use after acknowledging the warning that triggers as soon as the extension is installed.
 
-> **Use the tool at your own risk, do not be greedy.** Research legitimate times and adjust settings based on your ping. Lower the Autobuyer's times if you lose out on too many items, but use the tool responsibly.
+> **Use the tool at your own risk, do not be greedy.** Research legitimate times and adjust settings based on your ping. Lower the extension's times if you lose out on too many items, but use the tool responsibly.
 
 ## Tips
 
